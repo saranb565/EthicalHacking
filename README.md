@@ -1,5 +1,14 @@
-# EthicalHacking
-Doc with commands and screenshots of Hacking Tasks involving WiFi - Password Cracking, Evil Twin Attacks, Social Engineering Toolkits, DNS Enumeration, Aggressive Network Scanning, etc..
+# 🔥 Ethical Hacking – Hands-on Exploits & Techniques  
+A collection of **well-documented ethical hacking tasks** with step-by-step execution, commands, and screenshots.  
+
+### 📌 Topics Covered:
+- **WiFi Hacking** – Password Cracking, Evil Twin Attacks  
+- **Social Engineering** – Exploiting Human Vulnerabilities  
+- **Network Penetration Testing** – Aggressive Scanning & DNS Enumeration  
+- **Advanced Reconnaissance** – Uncovering Hidden Data  
+
+⚠️ **Disclaimer:** This repository is for **educational purposes only**. Always ensure you have **legal authorization** before performing any penetration testing activities.  
+
 
 
 # 🔐 Secure Document Access
