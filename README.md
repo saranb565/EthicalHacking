@@ -8,5 +8,5 @@ This PDF is password-protected for security reasons.
 ### 📩 How to Get the Password?  
 **Contact me via:**
 - **GitHub Issues**: Open an issue in this repository.
-- **LinkedIn**: B Saran(https://www.linkedin.com/in/saran-b-319127249/)
+- **LinkedIn**: https://www.linkedin.com/in/saran-b-319127249/
 
